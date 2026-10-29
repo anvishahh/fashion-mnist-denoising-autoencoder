@@ -1,0 +1,15 @@
+{
+  "hidden_units": [
+    300
+  ],
+  "learning_rate": 0.1,
+  "epochs": 20,
+  "batch_size": 64,
+  "train_time_s": 59.6,
+  "noisy_input_mse_test": 0.15383289754390717,
+  "train_mse": 0.014940657652914524,
+  "test_mse": 0.01603514514863491,
+  "noisy_input_psnr_db": 8.12950779658129,
+  "test_psnr_db": 17.949271045246963,
+  "final_epoch_loss": 0.016390956938266754
+}

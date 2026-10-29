@@ -1,0 +1,5 @@
+tensorflow>=2.16,<3
+keras>=3.0
+numpy
+matplotlib
+opencv-python-headless
